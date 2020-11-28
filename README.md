@@ -3,6 +3,8 @@
 
 Tasks provided were 
 # Day 1
+Ques 1 Create a string and slice from 2 nd value to last value
+
 # Day 2
 Ques 1  Creating the three variables a,b,c to same value of any integer and do the following
    * divide a by 10
