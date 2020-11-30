@@ -49,4 +49,16 @@ ques 4 Explain armstrong number and write a code with a function
  ques 7 WAP to convert the numbers of days to  years
  ques 8 Solve trignometry problm using math function and WAP to solve using math function
  ques 9 Create a calculator only on a code level by using condition (Basic arithmetic calculator)
- 
+# Day 7
+QUES 1 Create a pyhton module with list and import the module in another .py file and change the value in list
+QUES 2 Install pandas package (try to import package in a python file
+QUES 3 Import a module the picks random number and write  a program to fetch a random number from 1to 100 for every run
+QUES 4 Import sys packet and find the path
+QUES 5 Try to install a package and uninstall a package using pip
+
+# Day 8 
+QUES 1 List down all the error types and check all the errors using  a python progrma for all the errors
+QUES 2 Design a simple calculator app with try and except for all use cases.
+QUES 3 print one message if the try block raises a NameError and another for other errors
+QUES 4 When try -except scenario is not required?
+QUES 5 Try getting an input inside the try catch block
